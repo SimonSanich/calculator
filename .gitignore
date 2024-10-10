@@ -1,0 +1,11 @@
+*.o
+*.a
+*.exe
+*.out
+CMakeFiles/*
+!CMakeFiles/rules.ninja
+CMakeCache.txt
+.ninja_deps
+.ninja_log
+cmake_install.cmake
+build/
